@@ -1,0 +1,1 @@
+(()=>{const e=["⛳️  Escopo","🏁  Handoff","🔍  Pesquisa"," ","👀  Referências","👉🏼  Flow","✒️   Wireframing","📱  Prototype"," ","🖼  Cover","🏞  Local","⌛️  Arquivos","📜  Log","🗑  Reciclável"];for(let o of e)figma.createPage().name=o;figma.closePlugin()})();
