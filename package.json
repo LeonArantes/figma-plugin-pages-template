@@ -10,6 +10,7 @@
   "license": "",
   "dependencies": {
     "@figma/plugin-typings": "^1.40.0",
-    "typescript": "^4.5.4"
+    "typescript": "^4.5.4",
+    "webpack": "^5.65.0"
   }
 }
